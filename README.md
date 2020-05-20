@@ -1,1 +1,3 @@
-# tensorflow-bible
+# tensorflow-playground
+
+TensorFlow Learning Notebooks
